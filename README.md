@@ -7,14 +7,14 @@
 - server run on `http://localhost:8080/`
 
 ## Role
-Admin
-username: admin
-password: admin
+#### Admin
+- username: admin
+- password: admin
 
-Guru
-username: guru1
-password: guru1
+#### Guru
+- username: guru1
+- password: guru1
 
-Siswa
-username: siswa1
-password: siswa1
+#### Siswa
+- username: siswa1
+- password: siswa1
