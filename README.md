@@ -1,5 +1,9 @@
-# SIM - NILAI (CodeIgniter 4)
+# SOAL TEST BACKEND (NO. 16) | Database POS
+### Directory Database
+- search on `/db/pos.sql` 
 
+
+# SOAL TEST BACKEND (NO. 17) | SIM - NILAI (CodeIgniter 4)
 ## Installation
 - Clone Repository
 - Import database on folder `/db/sim-nilai.sql`
