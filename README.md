@@ -1,5 +1,5 @@
 # SOAL TEST BACKEND (NO. 16) | Database POS
-### Directory Database
+### Directory Database POS
 - search on `/db/pos.sql` 
 
 
