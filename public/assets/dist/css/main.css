@@ -1,0 +1,62 @@
+.nav-treeview .nav-item .nav-link.active {
+    background-color: #ffffff !important;
+}
+
+.btn-primary, .pagination .page-item.active a.page-link, .nav-link.active {
+    background-color: #6f42c1 !important;
+}
+
+.pagination .page-item.active a.page-link {
+    border-color: #6f42c1 !important;
+}
+
+.nav-link.active:hover {
+    background-color: #603ba5 !important;
+}
+
+.main-footer a {
+    color: #6f42c1 !important;
+}
+
+.breadcrumb-item a {
+    color: #6f42c1 !important;
+}
+
+.btn-primary {
+    border-color: #6f42c1 !important;
+}
+
+.btn-primary:hover {
+    background-color: #603ba5 !important;
+    border-color: #603ba5 !important;
+}
+
+.card-body.login-card-body {
+    border-radius: 8px !important;
+}
+
+.login-page {
+    background: #6f42c1 !important;
+}
+
+.forgot a {
+    color: #6f42c1 !important;
+}
+
+.card-tabs .card-header {
+    background: #6f42c1 !important;
+}
+
+.card-tabs a {
+    font-weight: 700 !important;
+}
+
+.card-tabs .nav-link {
+    color: #ffffff !important;
+}
+
+.card-tabs .nav-link.active {
+    border-color: #ffffff !important;
+    background-color: #ffffff !important;
+    color: #6f42c1 !important;
+}
