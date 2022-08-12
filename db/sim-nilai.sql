@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 12, 2022 at 10:57 PM
+-- Generation Time: Aug 12, 2022 at 11:05 PM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 8.0.10
 
@@ -203,12 +203,12 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id_user`, `username`, `password`, `role_id`) VALUES
 (1, 'admin', '$2y$10$gMkwMzyjWqfRf5VZSFlPgeuvy.omwRTRZ59NtuKsfZraTbpMrL3BG', 1),
-(2, 'endang', '$2y$10$mR69zLKXK8j8rB5sRHGr7ubWWgal5F5f9snuNZiWn1PyJW9JD9Jwi', 2),
+(2, 'guru1', '$2y$10$baj4nvp/WJbhEXwJ2wL4n.jMsMbq4NHD.lhA9ZCcEuyA8wXVtZTem', 2),
 (10, 'budiawan', '$2y$10$IS31vL.E1Hh/ubz5hWddv.10iZRT5iU7rrQ1rVn5WzyYbLvnmz6TK', 2),
 (11, 'sulis', '$2y$10$6lFdoB36LVx9Lj0AP.82EeQyiRoV9BZzAx2a3LmgUsg0.EU5C2p8K', 2),
 (12, 'eko123', '$2y$10$GiBYDodkCP99As5n1GKcEOZuO21xZw6.aNO60I5A3k60wHApGvAEC', 2),
 (13, 'mahmud', '$2y$10$VRE7SfOCSngF44a6fqSEG.hwjhue7Itfvd8vlXHET9Md4ObZkuaQ6', 2),
-(32, 'alfin', '$2y$10$NJY8qQj2PxY03DAdYpcA2.RUl0e/uQ5DajXwrD1/SgXTwv6IzRL7K', 3),
+(32, 'siswa1', '$2y$10$DNzY7KezPjn0DA2EiuPRju2Sdhp0FAt.JugpFakfAJVnOYw7ggsKq', 3),
 (33, 'lukii', '$2y$10$nOi1TqlGWlLwXrs4Ea08geAFH3unXHeJH4PfocN3uHGoGe.4TyW/W', 3),
 (34, 'choirul', '$2y$10$N2FXLNEBa.A8I0HJfCtMhe6yakTA4ZJg4YfJdfUzNCZrBo9VaDqIW', 3);
 
